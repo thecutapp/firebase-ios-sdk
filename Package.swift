@@ -180,7 +180,7 @@ let package = Package(
     ),
     .package(
       url: "https://github.com/google/interop-ios-for-google-sdks.git",
-      "100.0.0" ..< "101.0.0"
+      "100.0.0" ..< "102.0.0"
     ),
     .package(url: "https://github.com/google/app-check.git", "10.18.0" ..< "11.0.0"),
   ],
